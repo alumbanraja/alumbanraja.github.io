@@ -105,9 +105,9 @@ skills:
 
 experience-title: Experience
 experience:
-- {name: Empirical Research Fellow, icon: 'icon-1.png', date: 'May 2021 - Present', organization: 'Northwestern Kellogg'}
-- {name: Research Analyst, icon: 'icon-2.png', date: 'Sep 2020 - Apr 2021', organization: 'World Bank'}
-- {name: Research Assistant, icon: 'icon-3.png', date: 'Nov 2018 - Jun 2020', organization: 'World Bank'}
+- {name: Empirical Research Fellow, icon: 'kellogg.png', date: 'May 2021 - Present', organization: 'Northwestern Kellogg'}
+- {name: Research Analyst, icon: 'worldbank.png', date: 'Sep 2020 - Apr 2021', organization: 'World Bank'}
+- {name: Research Assistant, icon: 'worldbank.png', date: 'Nov 2018 - Jun 2020', organization: 'World Bank'}
 
 
 #-------------------------------
