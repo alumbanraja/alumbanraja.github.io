@@ -41,6 +41,7 @@ hero:
   hero-title: Hello! This page <br> is under construction
 
 social:
+- {icon: "ti-world", link: "https://www.kellogg.northwestern.edu/research-support/research-fellows.aspx"}
 - {icon: "ti-linkedin", link: "https://www.linkedin.com/in/alvin-ulido-lumbanraja-785b567a/"}
 - {icon: "ti-twitter", link: "https://twitter.com/alvinulido"}
 - {icon: "ti-github", link: "https://github.com/alvinulido"}
