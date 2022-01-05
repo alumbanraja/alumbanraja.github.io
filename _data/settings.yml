@@ -1,13 +1,13 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: Alvin Lumbanraja
 logo: 
-author: themefisher
+author: Alvin Lumbanraja
 description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
+email: alvin.lumbanraja@kellogg.northwestern.edu
+phone: +1 (315) 455-0830
+address: 2211 Campus Drive, Evanston, IL, 60208
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
@@ -38,7 +38,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: Hello! This page <br> is under construction
 
 social:
 - {icon: "ti-facebook", link: "#"}
