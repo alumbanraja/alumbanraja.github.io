@@ -1,9 +1,9 @@
 #-------------------------------
 # General Site Settings
 
-title: Alvin Lumbanraja
+title: Alvin U. Lumbanraja
 logo: 
-author: Alvin Lumbanraja
+author: Alvin U. Lumbanraja
 description: this is meta description
 email: alvin.lumbanraja <br> @kellogg.northwestern.edu
 phone: +1 (315) 455-0830
@@ -51,7 +51,7 @@ social:
 
 # About Section
 blurb:
-  <i> Selamat datang! </i>. I am Alvin and I currently work as empirical research fellow for the Finance Department at Kellogg School of Management. Please excuse the unfinished look of this website as I am still in the process of building this website. 
+  <i> Selamat datang! </i> I am Alvin and I currently work as empirical research fellow for the Finance Department of Kellogg School of Management at Northwestern University. Please excuse the unfinished look of this website as I am still in the process of building this website. 
   
 blurb-btn-link: '/about'
 blurb-btn-name: know more
