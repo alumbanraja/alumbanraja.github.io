@@ -31,4 +31,4 @@ When not talking about financial economics, I like to talk about architecture an
 I sometimes cook and bake (although most of them are comfort or indulgent foods #sorrynotsorry).
 
 If you are Indonesian undergraduate and would like to talk more about predoctoral research 
-assistantship, please reach out to me directly via email (see contact page)
+assistantship in economics or economics-adjacent areas, please reach out to me directly
