@@ -5,13 +5,30 @@ author: Alvin U. Lumbanraja
 image: assets/images/about/author.jpg
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat.
+_Apa kabar?_
+I am empirical research fellow at the Finance Department of Northwestern Kellogg
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident.
+Prior to going to academia, I have spent around 5 years of full-time equivalent in private sector, 
+economic policy consulting, and policy research. I spend around the first quarter of a century living 
+in Greater Jakarta before coming to Chicagoland (fun fact: Jakarta and Chicago proper are roughly
+similar in terms of total landmass, but Jakarta has almost 4x the population size)
 
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+My research interest, as of now, is in the intersection of finance, development, and inequality. 
+Why, you might ask? A lot of times, I still see a lot of people thinking that the world of finance,
+at least the one depicted in popular culture, is divorced and even antithetical to the problem of 
+poverty and inequality in our modern market economy. This could not be further from the truth. 
+Think of loan sharks or payday lenders, and people will instantly be repulsed by the very notion of
+these marginal groups of financial actors. However, most people stop at that before asking something
+like "why do poor people still borrow from these people/institutions?". Depending on where you are,
+the answers may differ a lot but we still see nuanced picture of how certain financial policies that
+are designed for other purposes (say, more stringent anti-money laundering policies or increase in
+capital requirement to better protect against banking collapse) make lending to poorer borrowers 
+more expensive for larger, more formal financial institutions. These seemingly counterintuitive
+insights are, however, crucial if we are to create better financial policies and market design.
+
+When not talking about financial economics, I like to talk about architecture and urban planning
+(side note: I have strong bias for dense cities with good network of public transportation). 
+I sometimes cook and bake (although most of them are comfort or indulgent foods #sorrynotsorry).
+
+If you are Indonesian undergraduate and would like to talk more about predoctoral research 
+assistantship, please reach out to me directly via email (see contact page)
