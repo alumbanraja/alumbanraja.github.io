@@ -6,7 +6,8 @@ image: assets/images/about/author.jpg
 ---
 
 _Apa kabar?_
-I am empirical research fellow at the Finance Department of Northwestern Kellogg
+
+I am empirical research fellow at the Finance Department of Kellogg School of Management at Northwestern University
 
 Prior to going to academia, I have spent around 5 years of full-time equivalent in private sector, 
 economic policy consulting, and policy research. I spend around the first quarter of a century living 
