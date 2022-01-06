@@ -94,10 +94,11 @@ team:
 
 skills-title: Skills
 skills:
-- {name: Web Design, color: '#fdb157', value: '90%'}
-- {name: Logo Design, color: '#9473e6', value: '60%'}
-- {name: After Effects, color: '#bdecf6', value: '80%'}
-- {name: Web App, color: '#ffbcaa', value: '70%'}
+- {name: Indonesian, color: '#fdb157', value: '100%'}
+- {name: English, color: '#ffbcaa', value: '90%'}
+- {name: Stata, color: '#fdb157', value: '85%'}
+- {name: python, color: '#9473e6', value: '75%'}
+- {name: R, color: '#bdecf6', value: '50%'}
 
 
 #-------------------------------
