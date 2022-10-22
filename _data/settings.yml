@@ -115,8 +115,9 @@ experience:
 
 education-title: Education
 education:
-- {name: MA in Social Science (Economics), date: '2020', organization: 'University of Chicago'}
-- {name: Bachelor in Economics, date: '2015', organization: 'Universitas Indonesia'}
+- {name: 'PhD, Finance', icon: 'kellogg.png',  date: '2022-', organization: 'Northwestern University'}
+- {name: 'MA, Social Science (Economics)', icon: 'uchicago.svg', date: '2019-2020', organization: 'University of Chicago'}
+- {name: 'BA, Economics', icon: 'ui.png', date: '2011-2015', organization: 'Universitas Indonesia'}
 
 #-------------------------------
 # Services Section
