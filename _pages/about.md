@@ -18,3 +18,5 @@ similar in terms of total landmass, but Jakarta has almost 4x the population siz
 My research interest, as of now, is at the intersection of finance, development, and inequality. 
 If you are Indonesian undergraduate and would like to talk more about predoctoral research 
 assistantship in economics or economics-adjacent areas, please reach out to me directly
+
+You can find my CV <a href="/assets/images/about/CV.pdf">here</a>
