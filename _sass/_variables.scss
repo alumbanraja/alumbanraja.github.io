@@ -6,6 +6,9 @@
    Typography
    ========================================================================== */
 
+/* Import Relevant Font from Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Baskervville&family=Libre+Baskerville:ital@1&display=swap');
+
 $doc-font-size              : 16;
 
 /* paragraph indention */
@@ -13,7 +16,7 @@ $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
 /* system typefaces */
-$serif                      : Baskerville, Georgia, Times, serif;
+$serif                      : "Libre Baskerville", serif;
 $sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
@@ -30,6 +33,7 @@ $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
 $global-font-family         : $sans-serif;
+$page-title-font-family     : $serif;
 $header-font-family         : $sans-serif;
 $caption-font-family        : $serif;
 
