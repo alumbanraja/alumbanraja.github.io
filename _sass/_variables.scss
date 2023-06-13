@@ -8,7 +8,7 @@
 
 /* Import Relevant Font from Google Font */
 
-@import url('https://fonts.googleapis.com/css2?family=Baskervville:ital@1&family=Inter:wght@300;400;500;600;700;800&family=Noto+Sans+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Noto+Sans+Mono&family=Source+Serif+4:ital,wght@1,500&display=swap');
 $doc-font-size              : 16;
 
 /* paragraph indention */
@@ -16,7 +16,7 @@ $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
 /* system typefaces */
-$serif                      : "Baskervville", serif;
+$serif                      : "Source Serif 4", serif;
 $sans-serif                 : Inter, sans-serif;
 $monospace                  : "Noto Sans Mono", monospace;
 
