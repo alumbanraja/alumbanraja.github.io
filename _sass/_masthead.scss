@@ -33,6 +33,7 @@
 
 .masthead__menu {
   background-color: $northwestern-color;
+  color: white;
   ul {
     margin: 0;
     padding: 0;
@@ -49,6 +50,5 @@
   &--lg {
     padding-right: 2em;
     font-weight: 700;
-    color: white;
   }
 }
