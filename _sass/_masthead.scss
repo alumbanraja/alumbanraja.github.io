@@ -34,7 +34,7 @@
 .masthead__menu {
   background-color: $northwestern-color;
   ul {
-    color: white;
+    background-color: $northwestern-color;
     margin: 0;
     padding: 0;
     clear: both;
@@ -46,6 +46,8 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
+  background-color: $northwestern-color;
+  color: white;
 
   &--lg {
     padding-right: 2em;
