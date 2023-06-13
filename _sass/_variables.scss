@@ -7,7 +7,7 @@
    ========================================================================== */
 
 /* Import Relevant Font from Google Font */
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Libre+Baskerville:ital@1&family=Noto+Sans+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@1,500&family=Inter:wght@300;400;500;600;700;800&family=Noto+Sans+Mono&display=swap');
 $doc-font-size              : 16;
 
 /* paragraph indention */
@@ -15,7 +15,7 @@ $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
 /* system typefaces */
-$serif                      : "Libre Baskerville", serif;
+$serif                      : "Cormorant", serif;
 $sans-serif                 : Inter, sans-serif;
 $monospace                  : "Noto Sans Mono", monospace;
 
