@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://alumbanraja.github.io/sitemap.xml
