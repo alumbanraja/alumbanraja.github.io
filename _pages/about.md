@@ -27,6 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-<em>Selamat Datang!</em> I am currently a fourth year PhD student in the Finance Department at Northwestern Kellogg. My academic interests are varied, including but not limited to macro-finance and development economics. 
+<em>Selamat datang!</em> I am currently a fourth year PhD student in the Finance Department at Northwestern Kellogg. Born and raised in Jakarta, I have lived in the Chicago area non-concurrently for 6 years. My academic interests are varied, including but not limited to macro-finance and development economics. 
 
 Aside from academia, I also have been weightlifting for the past 4 years. I maintain other, diverse recreational interests, including but not limited to photography, architecture, trainspotting, railfanning, and geography.
