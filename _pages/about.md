@@ -9,7 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    Kellogg Global Hub, Suite 4350
+    Office Address:
+    Kellogg Global Hub Rm 4350
     2211 Campus Drive
     Evanston, IL 60208
 
