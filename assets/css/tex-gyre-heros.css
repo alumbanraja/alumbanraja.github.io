@@ -1,0 +1,33 @@
+/* TeX Gyre Heros Font */
+
+@font-face {
+  font-family: 'TeX Gyre Heros';
+  src: url('../fonts/TeXGyreHeros-Regular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'TeX Gyre Heros';
+  src: url('../fonts/TeXGyreHeros-Italic.otf') format('opentype');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'TeX Gyre Heros';
+  src: url('../fonts/TeXGyreHeros-Bold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'TeX Gyre Heros';
+  src: url('../fonts/TeXGyreHeros-BoldItalic.otf') format('opentype');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
