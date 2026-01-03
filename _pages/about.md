@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    Office Address:
-    Kellogg Global Hub Rm 4350
-    2211 Campus Drive
+    Office Address:<br>
+    Kellogg Global Hub Rm 4350 <br>
+    2211 Campus Drive <br>
     Evanston, IL 60208
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
