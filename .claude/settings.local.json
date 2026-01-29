@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:documents.worldbank.org)",
+      "WebFetch(domain:papers.ssrn.com)"
+    ]
+  }
+}
